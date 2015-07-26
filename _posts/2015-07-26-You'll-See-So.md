@@ -3,9 +3,4 @@ published: true
 ---
 
 
-
----
-layout: post
-title: You will see...
----
 I'vee been writing.
