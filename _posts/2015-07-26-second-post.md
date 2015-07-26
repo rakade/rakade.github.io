@@ -1,6 +1,0 @@
----
-published: true
----
-
-
-I've been writing more recently.
